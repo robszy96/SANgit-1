@@ -4,7 +4,7 @@ p{
 }
 
 p:first-of-type{
-    color: red;
+    color: violet;
 }
 
 .container{
