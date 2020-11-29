@@ -3,6 +3,6 @@ p{
     background-color: yellow;
 }
 
-h2{
+p:first-of-type{
     color: red;
 }
