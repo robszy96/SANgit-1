@@ -1,10 +1,10 @@
 p{
     color: blue;
-    background-color: aqua;
+    background-color: brown;
 }
 
 p:first-of-type{
-    color: violet;
+    color: red;
 }
 
 .container{
